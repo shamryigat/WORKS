@@ -1,9 +1,7 @@
-Group members:
-Adam Yabai
-Shamry Igat
-Clinton Patma
-
-
+#Group members:
+#Adam Yabai
+#Shamry Igat
+#Clinton Patma
 
 num1 = int(input("Enter 1st number: "))
 num2 = int(input("Enter 2nd number: "))
